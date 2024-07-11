@@ -7,6 +7,7 @@ Tracked and tangible peripheral, named Camera Chameleon in use for the second st
 https://github.com/w00dw0rm/camera_chameleon/assets/47065870/438d34c3-375d-4c25-834e-b5f0164bab21
 
 The tracking closeup:
+
 https://github.com/w00dw0rm/camera_chameleon/assets/47065870/8d173715-ef55-4377-8732-a5b7054661f8
 https://github.com/w00dw0rm/camera_chameleon/assets/47065870/4bb34739-a739-4015-820f-95e7a0c1e288
 
